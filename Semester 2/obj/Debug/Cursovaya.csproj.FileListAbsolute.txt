@@ -1,0 +1,30 @@
+C:\ucheba\kursovye\1 kurs\Cursovaya\bin\Debug\Cursovaya.exe.config
+C:\ucheba\kursovye\1 kurs\Cursovaya\bin\Debug\Cursovaya.exe
+C:\ucheba\kursovye\1 kurs\Cursovaya\bin\Debug\Cursovaya.pdb
+C:\ucheba\kursovye\1 kurs\Cursovaya\obj\Debug\Cursovaya.csprojAssemblyReference.cache
+C:\ucheba\kursovye\1 kurs\Cursovaya\obj\Debug\Cursovaya.Form1.resources
+C:\ucheba\kursovye\1 kurs\Cursovaya\obj\Debug\Cursovaya.Properties.Resources.resources
+C:\ucheba\kursovye\1 kurs\Cursovaya\obj\Debug\Cursovaya.csproj.GenerateResource.cache
+C:\ucheba\kursovye\1 kurs\Cursovaya\obj\Debug\Cursovaya.csproj.CoreCompileInputs.cache
+C:\ucheba\kursovye\1 kurs\Cursovaya\obj\Debug\Cursovaya.exe
+C:\ucheba\kursovye\1 kurs\Cursovaya\obj\Debug\Cursovaya.pdb
+C:\Users\vladi\OneDrive\Рабочий стол\Cursovaya\bin\Debug\Cursovaya.exe.config
+C:\Users\vladi\OneDrive\Рабочий стол\Cursovaya\bin\Debug\Cursovaya.exe
+C:\Users\vladi\OneDrive\Рабочий стол\Cursovaya\bin\Debug\Cursovaya.pdb
+C:\Users\vladi\OneDrive\Рабочий стол\Cursovaya\obj\Debug\Cursovaya.csprojAssemblyReference.cache
+C:\Users\vladi\OneDrive\Рабочий стол\Cursovaya\obj\Debug\Cursovaya.Form1.resources
+C:\Users\vladi\OneDrive\Рабочий стол\Cursovaya\obj\Debug\Cursovaya.Properties.Resources.resources
+C:\Users\vladi\OneDrive\Рабочий стол\Cursovaya\obj\Debug\Cursovaya.csproj.GenerateResource.cache
+C:\Users\vladi\OneDrive\Рабочий стол\Cursovaya\obj\Debug\Cursovaya.csproj.CoreCompileInputs.cache
+C:\Users\vladi\OneDrive\Рабочий стол\Cursovaya\obj\Debug\Cursovaya.exe
+C:\Users\vladi\OneDrive\Рабочий стол\Cursovaya\obj\Debug\Cursovaya.pdb
+C:\Users\vladi\OneDrive\Рабочий стол\Semester 2\bin\Debug\Cursovaya.exe.config
+C:\Users\vladi\OneDrive\Рабочий стол\Semester 2\bin\Debug\Cursovaya.exe
+C:\Users\vladi\OneDrive\Рабочий стол\Semester 2\bin\Debug\Cursovaya.pdb
+C:\Users\vladi\OneDrive\Рабочий стол\Semester 2\obj\Debug\Cursovaya.csprojAssemblyReference.cache
+C:\Users\vladi\OneDrive\Рабочий стол\Semester 2\obj\Debug\Cursovaya.Form1.resources
+C:\Users\vladi\OneDrive\Рабочий стол\Semester 2\obj\Debug\Cursovaya.Properties.Resources.resources
+C:\Users\vladi\OneDrive\Рабочий стол\Semester 2\obj\Debug\Cursovaya.csproj.GenerateResource.cache
+C:\Users\vladi\OneDrive\Рабочий стол\Semester 2\obj\Debug\Cursovaya.csproj.CoreCompileInputs.cache
+C:\Users\vladi\OneDrive\Рабочий стол\Semester 2\obj\Debug\Cursovaya.exe
+C:\Users\vladi\OneDrive\Рабочий стол\Semester 2\obj\Debug\Cursovaya.pdb
